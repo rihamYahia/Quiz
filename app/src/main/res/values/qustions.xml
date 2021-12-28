@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="quiz" >
+        <item>if you find a defect while you are testing the software early in the lifecycle, what will be
+                impacted by this action?
+                A. Risk of finding this defect in operation will increase
+                B. Risk of finding this defect in operation will not be impacted
+                C. Risk of finding this defect in operation will be reduced </item>
+
+        <item>  What is the main role of the tester in software projects?
+                A. resolve defects
+                B. develop applications
+                C. find defects</item>
+
+        <item>Software testing is a way to …
+                A. Increase the quality of the software
+                B. Reduce the risk of software failure in operation
+                </item>
+
+        <item> Which of the following can be considered as a main objective of software testing?
+                A. Market our product to potential customers
+                B. Give the client good knowledge about the status of the project
+                C. Evaluate other team members and make a decision about their eligibility to get a bonus</item>
+
+        <item>if the tester reviewed the requirements and found a contradiction between two
+                requirements, which objective of testing can be obtained using this activity?
+                A. Building confidence
+                B. Compliance with laws
+                C. Preventing defects </item>
+
+        <item> if you are making sure that what you have built is the same as what the client wants,
+                which test objective is mostly met by this activity?
+                A. Reducing Risks
+                B. Finding Defects s
+                C. Requirements Fulfilment</item>
+
+        <item> In which lifecycle may testers be involved in debugging and component testing?
+                A. Waterfall Model
+                B. Agile Development
+                C. V-Model </item>
+
+        <item> What is the definition of debugging?
+                A. Checking that no unintended consequence have occurred as a result of a fix
+                B. Testing/checking whether the software performs correctly
+                C. Identifying the cause of a defect, repairing the code and checking the fix is correct
+                D. Checking that a previously reported defect has been corrected</item>
+
+        <item>Which of the following is an example of a defect that causes harm?
+                A. A usability defect that results in user dissatisfaction
+                B. A defect that causes slow response time when running reports
+                C. A defect that causes raw sewage to be dumped into the ocean
+                D. A regression defect that causes the desktop window to display in green </item>
+
+        <item>Which of the following can be considered as a testing contribution to success?
+                A. Reviewing the scope and cost of the project with stakeholders
+                B. Reviewing the effort done by the developer in the team and giving some advice to him
+                C. Review the design, requirements and code and tracking defects that occurred and that
+                need to be solved </item>
+
+        <item> Which of the following is the correct statement?
+                A. An error causes a failure which results in a defect
+                B. A defect causes a failure which results in an error
+                C. A failure is observed as an error and the root cause is the defect
+                D. An error causes a defect which is observed as a failure</item>
+
+
+    </string-array>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="quiz_answer">
+        <item> Risk of finding this defect in operation will be reduced</item>
+        <item> find defects</item>
+        <item>Reduce the risk of software failure in operation</item>
+        <item>  Give the client good knowledge about the status of the project </item>
+        <item>  Preventing defects</item>
+        <item>  Requirements Fulfilment </item>
+        <item>  Agile Development </item>
+        <item> Identifying the cause of a defect, repairing the code and checking the fix is correct </item>
+        <item>  A defect that causes raw sewage to be dumped into the ocean</item>
+        <item> Review the design, requirements and code and tracking defects that occurred and that
+                need to be solved</item>
+        <item>  An error causes a defect which is observed as a failure</item>
+
+    </string-array>
+</resources>

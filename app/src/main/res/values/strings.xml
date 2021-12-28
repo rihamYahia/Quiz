@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">completeApp</string>
+    <string name="btn_questions">Questions</string>
+    <string name="btn_rate_app">Rate App</string>
+</resources>
